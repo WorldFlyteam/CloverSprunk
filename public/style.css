@@ -40,15 +40,14 @@ body {
 	position:relative;
 	z-index: 4;
 	text-align:center;
+	vertical-align:top;
 }
 .link {
 	width:80%;
 	box-shadow:0px 0px 5px 0px rgba(50, 50, 50, 0.75);
-	vertical-align:top;
 }
 .right img {
-	width:50%;
-	vertical-align:bottom;
+	width:90%;
 }
 .footer {
 	background-image:url("http://cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg");
