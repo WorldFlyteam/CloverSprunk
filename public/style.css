@@ -46,6 +46,7 @@ body {
 .link {
 	width:80%;
 	box-shadow:0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+	background-color:white;
 }
 .right img {
 	width:90%;
