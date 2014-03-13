@@ -1,4 +1,3 @@
-
   function button(n, callback){
     if(n===2){
       window.location='video.html';
@@ -9,5 +8,6 @@
    if(n===3){
      alert('Fuck inline js');
    }
+   callback();
    return false; 
   }
