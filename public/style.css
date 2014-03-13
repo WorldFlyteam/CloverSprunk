@@ -16,14 +16,14 @@ body {
 	font-size:5em;
 	color:#fff;
 	font-variant: small-caps;
-	box-shadow:0px 10px 15px 0px rgba(0, 0, 0, 0.5);
+	box-shadow:0 10px 15px 0 rgba(0, 0, 0, 0.5);
 	text-shadow: 1px 1px 30px #fff;
 	position:relative;
 	z-index: 3;
 }
 .left {
 	height:100%;
-	box-shadow:10px 0px 15px 0px rgba(0, 0, 0, 0.5);
+	box-shadow:10px 0 15px 0 rgba(0, 0, 0, 0.5);
 	width:80%;
 	vertical-align:top;
 	padding:.02em;
@@ -45,7 +45,7 @@ body {
 }
 .link {
 	width:80%;
-	box-shadow:0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:0 0 5px 0 rgba(50, 50, 50, 0.75);
 }
 .right img {
 	width:90%;
@@ -54,7 +54,7 @@ body {
 	background-image:url(//cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
 	font-size:2em;
 	color:#fff;
-	box-shadow:0px -10px 15px 0px rgba(0, 0, 0, 0.5);
+	box-shadow:0 -10px 15px 0 rgba(0, 0, 0, 0.5);
 	text-shadow: 1px 1px 30px #fff;
 	text-align:center;
 	position:relative;
