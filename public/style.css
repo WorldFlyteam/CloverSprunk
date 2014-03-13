@@ -53,7 +53,7 @@ body {
 .footer {
 	background-image:url(//cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
 	font-size:2em;
-	color:white;
+	color:#fff;
 	box-shadow:0px -10px 15px 0px rgba(0, 0, 0, 0.5);
 	text-shadow: 1px 1px 30px #fff;
 	text-align:center;
