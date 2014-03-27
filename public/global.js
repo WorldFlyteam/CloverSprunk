@@ -7,6 +7,7 @@
     }
    if(n===3){
      alert('Fuck inline js');
+     getElementsByTagName('body')[0].style.backgroundColor='red';
    }
    callback();
    return false; 
