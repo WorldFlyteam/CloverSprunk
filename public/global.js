@@ -8,6 +8,7 @@
    if(n===3){
      alert('Fuck inline js');
      document.getElementById('b-page').style.backgroundColor='red';
+     this.style.fontsize='100px' 
    }
    callback();
    return false; 
