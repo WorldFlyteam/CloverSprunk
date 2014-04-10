@@ -30,6 +30,7 @@ body {
 	background-color:white;
 	position:relative;
 	z-index: 2;
+	text-align:center;
 }
 .left img {
 	width:60%;
