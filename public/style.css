@@ -1,12 +1,7 @@
-@font-face {
-  font-family:zhizn;
-}
-@impor{"http://webfonts.ru/import/zhizn.css";}
-
 body {
 	margin:0;
 	padding:0;
-	font-family:zhizn,Arial,sans-serif;
+	font-family:Arial,sans-serif;
 	height:100%;
 	width:100%;
 	background-color:#eeeeeb;
