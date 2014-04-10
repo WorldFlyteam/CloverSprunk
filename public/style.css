@@ -12,7 +12,7 @@ body {
 	height:100%;
 }
 .header {
-	background-image:url(http://cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
+	background-image:url(//cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
 	font-size:500%;
 	color:white;
 	font-variant: small-caps;
@@ -35,7 +35,7 @@ body {
 	width:60%;
 }
 .right {
-	background-image:url(http://www.shoptheblend.com/images/P/Spitfire-Bighead-54mm.gif);
+	background-image:url(//www.shoptheblend.com/images/P/Spitfire-Bighead-54mm.gif);
 	width:20%;
 	padding:2%;
 	position:relative;
@@ -51,7 +51,7 @@ body {
 	width:90%;
 }
 .footer {
-	background-image:url(http://cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
+	background-image:url(//cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
 	font-size:200%;
 	color:white;
 	box-shadow:0px -10px 15px 0px rgba(0, 0, 0, 0.5);
