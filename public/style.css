@@ -1,7 +1,8 @@
 @font-face {
   font-family:zhizn;
-  src: url("http://webfonts.ru/import/zhizn.tff;");
 }
+@impor{t "http://webfonts.ru/import/zhizn.css";}
+
 body {
 	margin:0;
 	padding:0;
