@@ -4,6 +4,7 @@ body {
 	font-family:Arial,sans-serif;
 	height:100%;
 	width:100%;
+	background-color:#eeeeeb;
 }
 .page {
 	width:100%; 
@@ -11,22 +12,22 @@ body {
 	height:100%;
 }
 .header {
-	background-image:url(//cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
-	font-size:5em;
-	color:#fff;
+	background-image:url(http://cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
+	font-size:500%;
+	color:white;
 	font-variant: small-caps;
-	box-shadow:0 10px 15px 0 rgba(0, 0, 0, 0.5);
-	text-shadow: 1px 1px 30px #fff;
+	box-shadow:0px 10px 15px 0px rgba(0, 0, 0, 0.5);
+	text-shadow: 1px 1px 30px rgba(255, 255, 255, 1);
 	position:relative;
 	z-index: 3;
 }
 .left {
 	height:100%;
-	box-shadow:10px 0 15px 0 rgba(0, 0, 0, 0.5);
+	box-shadow:10px 0px 15px 0px rgba(0, 0, 0, 0.5);
 	width:80%;
 	vertical-align:top;
-	padding:.02em;
-	background-color:#fff;
+	padding:2%;
+	background-color:white;
 	position:relative;
 	z-index: 2;
 }
@@ -34,9 +35,9 @@ body {
 	width:60%;
 }
 .right {
-	background-image:url(//www.shoptheblend.com/images/P/Spitfire-Bighead-54mm.gif);
+	background-image:url(http://www.shoptheblend.com/images/P/Spitfire-Bighead-54mm.gif);
 	width:20%;
-	padding:.02em;
+	padding:2%;
 	position:relative;
 	z-index: 1;
 	text-align:center;
@@ -44,17 +45,17 @@ body {
 }
 .link {
 	width:80%;
-	box-shadow:0 0 5px 0 rgba(50, 50, 50, 0.75);
+	box-shadow:0px 0px 5px 0px rgba(50, 50, 50, 0.75);
 }
 .right img {
 	width:90%;
 }
 .footer {
-	background-image:url(//cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
-	font-size:2em;
-	color:#fff;
-	box-shadow:0 -10px 15px 0 rgba(0, 0, 0, 0.5);
-	text-shadow: 1px 1px 30px #fff;
+	background-image:url(http://cdn4.store.steampowered.com/public/images/v5/globalheader_bg.jpg);
+	font-size:200%;
+	color:white;
+	box-shadow:0px -10px 15px 0px rgba(0, 0, 0, 0.5);
+	text-shadow: 1px 1px 30px rgba(255, 255, 255, 1);
 	text-align:center;
 	position:relative;
 	z-index: 4;
