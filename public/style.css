@@ -59,6 +59,6 @@ body {
 	position:relative;
 	z-index: 4;
 }
-.list {
-	font-size:80%;	
+img .list {
+	width:200px;
 }
