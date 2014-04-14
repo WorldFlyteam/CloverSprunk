@@ -63,4 +63,5 @@ body {
 }
 .left iframe {
 	 float: left;
+	 margin: 7px 7px 7px 0;
 }
