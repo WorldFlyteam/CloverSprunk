@@ -61,8 +61,8 @@ body {
 .list td {
 	margin-right: 3%;
 	border: 4px double black;
-	padding-top:20%;
-	padding-bottom:20%;
+	padding-top:30%;
+	padding-bottom:30%;
 }
 .left iframe {
 	 float: left;
