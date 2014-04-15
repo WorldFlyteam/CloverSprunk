@@ -73,3 +73,6 @@ body {
 	font-size:80%;
 	text-align:center;
 }
+.list td:hover{
+	background-color:green;
+}
