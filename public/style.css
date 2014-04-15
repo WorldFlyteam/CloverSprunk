@@ -64,20 +64,20 @@ body {
 	height:250px;	
 	width:165px;
 	 -webkit-transition: all 0.5s ease-out;
-    -moz-transition: all 0.5s ease;
-    -o-transition: all 0.5s ease;
+    	-moz-transition: all 0.5s ease;
+    	-o-transition: all 0.5s ease;
 }
 .left iframe {
 	 float: left;
 	 margin-right:3%;
 }
 .list {
-	border-spacing: 10px;
+	border-spacing: 2%;
 	font-size:80%;
 	text-align:center;
 }
 .list td:hover{
 	-webkit-transform: rotate(-7deg);
-    -moz-transform: rotate(-7deg);
-    -o-transform: rotate(-7deg);
+    	-moz-transform: rotate(-7deg);
+    	-o-transform: rotate(-7deg);
 }
