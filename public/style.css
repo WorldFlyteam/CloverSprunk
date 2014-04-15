@@ -59,10 +59,9 @@ body {
 	box-shadow:0px 0px 10px 0px rgba(50, 50, 50, 0.75);
 }
 .list td {
-	padding-right: 20px;
+	padding-right: 3%;
 	border: 4px double black;
-	text-align:center;
-	height:20%;
+	padding-top:;
 }
 .left iframe {
 	 float: left;
