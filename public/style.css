@@ -77,7 +77,5 @@ body {
 	text-align:center;
 }
 .list td:hover{
-	-webkit-transform: rotate(-7deg);
-	-moz-transform: rotate(-7deg);
-	-o-transform: rotate(-7deg);
+	margin-top: 2px;
 }
