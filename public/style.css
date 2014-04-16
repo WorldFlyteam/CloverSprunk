@@ -30,6 +30,7 @@ body {
 	background-color:white;
 	position:relative;
 	z-index: 2;
+	background-position: bottom right
 	background-image:url(http://fc03.deviantart.net/fs70/i/2012/289/5/a/regular_show___rigby_by_caboose6789-d5i1f1b.jpg);
 }
 .right {
