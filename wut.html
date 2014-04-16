@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+#box {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	display: none;
+	border: 1px solid;
+}
+</style>
+<script>
+function On() {
+	document.getElementById('box').style.display='block'
+}
+function Off() {
+	document.getElementById('box').style.display='none'
+	// тут можно что-то делать с каментом
+}
+</script>
+</head>
+<body>
+<div id='box'>
+	<p>Какие ваши доказателства? (с) к/ф Красная жара</p>
+	<textarea id='coment'>
+	</textarea>
+	<input type='button' value='Послать' onclick='Off()'>
+</div>
+<a href='javascript: On()'>Написать комментарий</a>
+</body>
+</html>
