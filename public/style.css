@@ -68,9 +68,6 @@ body {
 	height:250px;	
 	width:165px;
 	cursor:hand;
-	-webkit-transition: all 0.5s ease-out;
-    	-moz-transition: all 0.5s ease;
-    	-o-transition: all 0.5s ease;
 }
 .left iframe {
 	 padding:3%;
@@ -79,9 +76,4 @@ body {
 	border-spacing: 15px;
 	font-size:80%;
 	text-align:center;
-}
-.list td:hover{
-	-webkit-transform: rotate(-7deg);
-    	-moz-transform: rotate(-7deg);
-    	-o-transform: rotate(-7deg);
 }
