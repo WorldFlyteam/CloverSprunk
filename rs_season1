@@ -1,0 +1,54 @@
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>CloverSprunk</title>
+<link rel="stylesheet" href="public/style.css"/>
+</head>
+<body>
+<table class="page">
+<tr>
+<td colspan="2" class="header">
+CloverSprunk
+</td>
+</tr>
+<tr>
+<td class="left">
+<table class="list">
+  <tr>
+  <td onclick="window.location='index.html'">
+    <img src="http://i.cdn.turner.com/toon/video/repository/8a250ab02a424622012a48374e330051/thumbnail_39584.jpg">
+    <br>
+    <b>Season 1</b>
+  </td>
+  <td>
+    <img src="http://i.cdn.turner.com/toon/video/repository/8a250ab02a424622012a48374e330051/thumbnail_39584.jpg">
+    <br>
+    <b>Season 2</b>
+  </td>
+   <td>
+    <img src="http://i.cdn.turner.com/toon/video/repository/8a250ab02a424622012a48374e330051/thumbnail_39584.jpg">
+    <br>
+    <b>Season 3</b>
+  </td>
+  </tr>
+</table>
+</td>
+<td class="right">
+<button class="link" onclick="window.location='index.html'">Главная</button>
+<p>
+<button class="link" onclick="window.location='video.html'">Видео</button>
+<p>
+<button class="link" onclick="window.location='pictures.html'">Список</button>
+<p>
+<button class="link" onclick="window.location='books.html'">Еще что-нибудь</button>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="footer">
+© CloverSprunk 
+</td>
+</tr>
+</table>
+</body>
+</html>
