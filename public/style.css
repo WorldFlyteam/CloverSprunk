@@ -57,4 +57,20 @@ body {
 	position:relative;
 	z-index: 4;
 }
-
+.list td {
+	margin-right: 3%;
+	cursor:hand;
+	font-size:135%;
+}
+.list img {
+	border: 4px double black;
+	width:300px;
+}
+.left iframe {
+	 padding:3%;
+}
+.list {
+	border-spacing: 15px;
+	font-size:80%;
+	text-align:center;
+}
