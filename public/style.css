@@ -64,14 +64,11 @@ body {
 }
 .list td {
 	margin-right: 3%;
-	border: 4px double black;
-	width:144px;
-	height:81px;	
 	cursor:hand;
-	color:white;
 	font-size:135%;
-	font-family:Impact;
-	-webkit-text-stroke: 1px black;
+}
+.list img {
+	border: 4px double black;
 }
 .left iframe {
 	 padding:3%;
