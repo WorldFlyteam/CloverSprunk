@@ -57,3 +57,8 @@ body {
 	position:relative;
 	z-index: 4;
 }
+.cola img:hover {
+    -webkit-transform: rotate(-7deg);
+    -moz-transform: rotate(-7deg);
+    -o-transform: rotate(-7deg);
+}
