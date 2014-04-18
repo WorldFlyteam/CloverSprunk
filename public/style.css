@@ -57,11 +57,6 @@ body {
 	position:relative;
 	z-index: 4;
 }
-.list img {
-	width:200px;
-	height:250px;
-	box-shadow:0px 0px 10px 0px rgba(50, 50, 50, 0.75);
-}
 .list td {
 	margin-right: 3%;
 	cursor:hand;
