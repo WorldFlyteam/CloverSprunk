@@ -65,8 +65,8 @@ body {
 .list td {
 	margin-right: 3%;
 	border: 4px double black;
-	height:250px;	
-	width:165px;
+	height:144px;	
+	width:81px;
 	cursor:hand;
 }
 .left iframe {
