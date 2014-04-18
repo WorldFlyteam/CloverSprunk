@@ -64,6 +64,7 @@ body {
 }
 .list img {
 	border: 4px double black;
+	width:300px;
 }
 .left iframe {
 	 padding:3%;
