@@ -68,6 +68,8 @@ body {
     	-o-transition: all 0.5s ease;
     	padding-left:2%;
     	padding-right:2%;
+    	-webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+    -moz-box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
 }
 .cola {
 	text-align:center;
