@@ -57,10 +57,10 @@ body {
 	position:relative;
 	z-index: 4;
 }
-.list td {
-	margin-right: 3%;
+.rs_vids {
 	cursor:hand;
-	font-size:135%;
+	font-weight:bold;
+	text-align:center;
 }
 .rs_vids img {
 	border: 4px double black;
