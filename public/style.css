@@ -60,5 +60,5 @@ body {
 .cola img:hover {
     -webkit-transform: rotate(-7deg);
     -moz-transform: rotate(-7deg);
-    -o-transform: rotate(-7deg);
+    -o-transform: rotate(-20deg);
 }
