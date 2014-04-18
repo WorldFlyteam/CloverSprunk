@@ -71,6 +71,7 @@ body {
 	color:white;
 	font-size:135%;
 	font-family:Impact;
+	-webkit-text-stroke: 1px black;
 }
 .left iframe {
 	 padding:3%;
