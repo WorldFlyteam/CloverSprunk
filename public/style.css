@@ -61,7 +61,7 @@ body {
 	z-index: 4;
 }
 //It is no BEM!
-.cola img:hover, .cola img:focus {
+.cola img:hover {
     	-webkit-transform: rotate(50deg);
     	-moz-transform: rotate(50deg);
     	-o-transform: rotate(50deg);
